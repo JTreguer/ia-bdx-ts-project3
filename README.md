@@ -86,6 +86,8 @@ https://fr.slideshare.net/PyData/1d-convolutional-neural-networks-for-time-serie
 [ici aussi](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 [là tiens](https://medium.com/@adityathiruvengadam/transformer-architecture-attention-is-all-you-need-aeccd9f50d09)
 
+* Un article assez incroyable où l'auteur a quasiment essayé toutes les techniques de ML sur le problème de la prédiction des cours, très "enrichissant" à lire : [ici](https://towardsdatascience.com/aifortrading-2edd6fac689d)
+
 
 * J'ajouterai des exemples de notebooks sur PyTorch, sur le modèle avec attention et sur le test de marche aléatoire avec vectorisation
   * Pytorch : https://github.com/JTreguer/pytorch_examples
