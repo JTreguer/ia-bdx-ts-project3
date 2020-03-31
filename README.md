@@ -87,10 +87,10 @@ https://fr.slideshare.net/PyData/1d-convolutional-neural-networks-for-time-serie
 [là tiens](https://medium.com/@adityathiruvengadam/transformer-architecture-attention-is-all-you-need-aeccd9f50d09)
 
 
-* J'ajouterai des exemples de notebooks sur PyTorch et sur le modèle avec attention
-Pytorch : https://github.com/JTreguer/pytorch_examples
-Modèle avec attention : https://github.com/JTreguer/lstm_attention
-
+* J'ajouterai des exemples de notebooks sur PyTorch, sur le modèle avec attention et sur le test de marche aléatoire avec vectorisation
+  * Pytorch : https://github.com/JTreguer/pytorch_examples
+  * Modèle avec attention : https://github.com/JTreguer/lstm_attention
+  * Random-walk test : https://github.com/JTreguer/random_walk_test
 
 ## Grille d'évaluation mutuelle du livrable
 
