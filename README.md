@@ -47,6 +47,8 @@ Suite de l'introduction aux séries temporelles avec les techniques "modernes" v
 
 * LSTM sur série univarié [ici](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
 
+* Un diagramme très complet sur la forme des entrée pour un LSTM dans Keras : https://github.com/MohammadFneish7/Keras_LSTM_Diagram
+
 * Une analyse de série temporelle très complète d'un point de vue statistique sur un cas réel avec LSTM : [ici](https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba)
 Avec le [notebook](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/LSTM%20Time%20Series%20Power%20Consumption.ipynb)
 Tiré de [ça](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/)
