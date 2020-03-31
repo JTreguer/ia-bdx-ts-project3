@@ -87,9 +87,9 @@ https://fr.slideshare.net/PyData/1d-convolutional-neural-networks-for-time-serie
 [là tiens](https://medium.com/@adityathiruvengadam/transformer-architecture-attention-is-all-you-need-aeccd9f50d09)
 
 
-* J'ajouterai des exemples de notebooks sur PyTorch et sur le modèle avec attention (A METTRE EN PUBLIC SI PAS ACCESSIBLES)
-https://github.com/JTreguer/pene_plan/tree/master/pytorch_examples
-https://github.com/JTreguer/pene_plan/tree/master/lstm_attention_example/lstm_sinus
+* J'ajouterai des exemples de notebooks sur PyTorch et sur le modèle avec attention
+Pytorch : https://github.com/JTreguer/pytorch_examples
+Modèle avec attention : https://github.com/JTreguer/lstm_attention
 
 
 ## Grille d'évaluation mutuelle du livrable
