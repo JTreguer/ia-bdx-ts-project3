@@ -41,6 +41,8 @@ Suite de l'introduction aux séries temporelles avec les techniques "modernes" v
 * RNN simple sur un sinus avec Keras : [ici](https://fairyonice.github.io/Understand-Keras%27s-RNN-behind-the-scenes-with-a-sin-wave-example.html)
 * RNN simple sur un sinus avec TensorFlow : [ici](https://medium.com/@jkim2718/time-series-prediction-using-rnn-in-tensorflow-738e2dcfca96)
 
+* Des explications sur les LSTM : [ici](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 * LSTM sur un sinus : 
 [ici](https://medium.com/@krzysztofbalka/training-keras-lstm-to-generate-sine-function-2e3c0ca42c3b)
 [Une discussion à lire](https://datascience.stackexchange.com/questions/31923/training-an-lstm-to-track-sine-waves)
