@@ -47,6 +47,8 @@ Suite de l'introduction aux séries temporelles avec les techniques "modernes" v
 
 * LSTM sur série univarié [ici](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
 
+* Une analyse de série temporelle très complète d'un point de vue statistique sur un cas réel avec LSTM : [ici](https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba)
+
 * ARIMA vs LSTM (vs Prophet): [ici](https://medium.com/@cdabakoglu/time-series-forecasting-arima-lstm-prophet-with-python-e73a750a9887)
 
 * Time series generator dans Keras : [ici](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/) [et là](https://www.dlology.com/blog/how-to-use-keras-timeseriesgenerator-for-time-series-data/)
