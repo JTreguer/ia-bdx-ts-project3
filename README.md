@@ -1,4 +1,4 @@
-# BREAKING NEWS!!!
+# UPDATE - Lire attentivement
 Afin d'élargir le spectre de la formation et la rendre plus "tout-terrain", tous les ateliers du jour se feront soit en PHP soit en Fortran 90. Voici quelques liens :
 * Résumer l'article suivant : A parallel Fortran framework for neural networksand deep learning https://arxiv.org/pdf/1902.06714.pdf
 * Lire et contribuer à cette discussion : https://www.researchgate.net/post/What_is_the_scope_of_Fortran_in_machine_learning
