@@ -6,6 +6,10 @@ Afin d'élargir le spectre de la formation et la rendre plus "tout-terrain", tou
 Pause récréative :
 * Faire une analyse multi-variée en R en croisant les données de reproduction des pandas de la province du Sichuan avec les données de température mondiale. Bonus : faire rimer les lignes de code. Bonus du bonus : nommer toutes les variables avec des palindromes
 
+## Ressources :
+
+* Une librairie de ML en PHP : [ici](https://rubixml.com/)
+
 Note : vous avez 36 heures
 
 # ia-bdx-ts-project3
