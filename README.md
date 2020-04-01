@@ -4,7 +4,7 @@ Afin d'élargir le spectre de la formation et la rendre plus "tout-terrain", tou
 * Lire et contribuer à cette discussion : https://www.researchgate.net/post/What_is_the_scope_of_Fortran_in_machine_learning
 * Utiliser cette bibliothèque pour développer un site web d collecte de séries temporelles : https://www.lafermeduweb.net/veille/php-ml-une-bibliotheque-de-machine-learning-pour-php
 Pause récréative :
-* Faire une analyse multi-variée en R en croisant les données de reproduction des pandas de la province du Sichuan avec les données de température mondiale. Bonus : faire rimer les lignes de code
+* Faire une analyse multi-variée en R en croisant les données de reproduction des pandas de la province du Sichuan avec les données de température mondiale. Bonus : faire rimer les lignes de code. Bonus du bonus : nommer toutes les variables avec des palindromes
 
 Note : vous avez 36 heures
 
