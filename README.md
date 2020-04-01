@@ -62,6 +62,8 @@ Suite de l'introduction aux séries temporelles avec les techniques "modernes" v
 * RNN simple sur un sinus avec TensorFlow : [ici](https://medium.com/@jkim2718/time-series-prediction-using-rnn-in-tensorflow-738e2dcfca96)
 * Notebook de Guillaume [ici](https://github.com/guitoo/TimeSeries)
 
+* RNN vs GRU vs LSTM : [ici](http://dprogrammer.org/rnn-lstm-gru)
+
 * Des explications sur les LSTM : [ici](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 * LSTM sur un sinus : 
