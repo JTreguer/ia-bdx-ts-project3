@@ -2,9 +2,15 @@
 Afin d'élargir le spectre de la formation et la rendre plus "tout-terrain", tous les ateliers du jour se feront soit en PHP soit en Fortran 90. Voici quelques liens :
 * Résumer l'article suivant : A parallel Fortran framework for neural networksand deep learning https://arxiv.org/pdf/1902.06714.pdf
 * Lire et contribuer à cette discussion : https://www.researchgate.net/post/What_is_the_scope_of_Fortran_in_machine_learning
-* Utiliser cette bibliothèque pour développer un site web d collecte de séries temporelles : https://www.lafermeduweb.net/veille/php-ml-une-bibliotheque-de-machine-learning-pour-php
+* Durant la pause déjeuner, utiliser cette bibliothèque pour développer un site web de collecte de séries temporelles : https://www.lafermeduweb.net/veille/php-ml-une-bibliotheque-de-machine-learning-pour-php
+
+
 Pause récréative :
-* Faire une analyse multi-variée en R en croisant les données de reproduction des pandas de la province du Sichuan avec les données de température mondiale. Bonus : faire rimer les lignes de code. Bonus du bonus : nommer toutes les variables avec des palindromes
+* Faire une analyse multi-variée en R en croisant les données de reproduction des pandas de la province du Sichuan avec les données de température mondiale (attention de bien normaliser, on pourra s'aider du dataset "consommation hydro-électrique au Québec de 1976 à nos jours").
+
+Bonus : faire rimer les lignes de code
+
+Bonus du bonus : nommer toutes les variables avec des palindromes
 
 ## Ressources :
 
