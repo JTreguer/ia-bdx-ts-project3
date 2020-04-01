@@ -132,7 +132,7 @@ https://fr.slideshare.net/PyData/1d-convolutional-neural-networks-for-time-serie
 4. Préparer l'application d'un modèle classique style ARMA en décomposant la série temporelle en :
   * niveau moyen
   * tendance (seasonal_decompose ou appliquer diff ou soustraire la moyenne mobile qui va bien ou soustraire/diviser par un modèle de tendance linéaire, polynomial, exponentiel, etc.)
-  * cycles / saisons (seasonal_decompose ou faire la différence à n intervalles où n = période ou soustraire un sinus fitté)
+  * cycles / saisons (seasonal_decompose ou faire la différence à n intervalles où n = période ou soustraire un sinus fitté ou utiliser une FFT pour identifier les principales périodes)
 5. Vérifier que ce qu'il reste (les résidus) est bien stationnaire :
   * Tracer la moyenne mobile et l'écart-type mobile : sont-ils plats ?
   * Calculer la moyenne et l'écart-type sur différents intervalles de taille au moins 30 unités : sont-ils à peu près constants ?
@@ -145,4 +145,5 @@ https://fr.slideshare.net/PyData/1d-convolutional-neural-networks-for-time-serie
 11. Essayer la convolution 1-D
 12. Essayer un réseau de neurones classique en lui passant l'ensemble (X,Y) de training
 13. Essayer des techniques plus avancées provenant du NLP comme le modèle à attention du style Transformers
+14. Comparer ses modèles à des outils disponibles en ligne comme BigML ou Prophet
   
