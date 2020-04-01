@@ -1,3 +1,13 @@
+# BREAKING NEWS!!!
+Afin d'élargir le spectre de la formation et la rendre plus "tout-terrain", tous les ateliers du jour se feront soit en PHP soit en Fortran 90. Voici quelques liens :
+* Résumer l'article suivant : A parallel Fortran framework for neural networksand deep learning https://arxiv.org/pdf/1902.06714.pdf
+* Lire et contribuer à cette discussion : https://www.researchgate.net/post/What_is_the_scope_of_Fortran_in_machine_learning
+* Utiliser cette bibliothèque pour développer un site web d collecte de séries temporelles : https://www.lafermeduweb.net/veille/php-ml-une-bibliotheque-de-machine-learning-pour-php
+Pause récréative :
+* Faire une analyse multi-variée en R en croisant les données de reproduction des pandas de la province du Sichuan avec les données de température mondiale. Bonus : faire rimer les lignes de code
+
+Note : vous avez 36 heures
+
 # ia-bdx-ts-project3
 Avec le modèle persistant naïf et ARMA, nous avons une baseline comme référence pour des modèles plus sophistiqués...
 Suite de l'introduction aux séries temporelles avec les techniques "modernes" venant du Machine Learning :
