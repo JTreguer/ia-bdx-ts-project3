@@ -1,9 +1,3 @@
-## Ressources :
-
-* Une librairie de ML en PHP : [ici](https://rubixml.com/)
-
-Note : vous avez 36 heures
-
 # ia-bdx-ts-project3
 Avec le modèle persistant naïf et ARMA, nous avons une baseline comme référence pour des modèles plus sophistiqués...
 Suite de l'introduction aux séries temporelles avec les techniques "modernes" venant du Machine Learning :
