@@ -113,4 +113,36 @@ https://fr.slideshare.net/PyData/1d-convolutional-neural-networks-for-time-serie
     * Prédictions en walk-forward
    
 * Pour la partie méthodes de Machine Learning
-A COMPLETER
+* Mêmes recommandations de bienveillance et de critiques constructives
+* Points à vérifier :
+   * Mise en forme de la série sous forme (X,Y) 
+   * RNN sur sinus avec courbe d'apprentissage et évaluation
+   * LSTM sur sinus avec courbe d'apprentissage et évaluation
+   * RNN sur données choisies avec courbe d'apprentissage et évaluation
+   * LSTM sur données choisies avec courbe d'apprentissage et évaluation
+   * En bonus : GRU, Conv-1D, XGBoost
+   
+## Récap time series
+
+1. Visualiser la série temporelle
+2. Se faire une idée sur sa dynamique (tendance ? Moyenne ? Cycles ? Extrema qui s'écartent ?)
+3. Evaluer les baselines naïves
+  * prédire avec la valeur courante
+  * prédire avec la valeur moyenne
+4. Préparer l'application d'un modèle classique style ARMA en décomposant la série temporelle en :
+  * niveau moyen
+  * tendance (seasonal_decompose ou appliquer diff ou soustraire la moyenne mobile qui va bien ou soustraire/diviser par un modèle de tendance linéaire, polynomial, exponentiel, etc.)
+  * cycles / saisons (seasonal_decompose ou faire la différence à n intervalles où n = période ou soustraire un sinus fitté)
+5. Vérifier que ce qu'il reste (les résidus) est bien stationnaire :
+  * Tracer la moyenne mobile et l'écart-type mobile : sont-ils plats ?
+  * Calculer la moyenne et l'écart-type sur différents intervalles de taille au moins 30 unités : sont-ils à peu près constants ?
+  * Appliquer un test statistique de type Dickey-Fuller augmenté (on veut la statistique bien négative et p-value < 0.05)
+6. Tracer les fonctions d'auto-corrélation (ACF/PACF) et en déduire les ordres optimaux du modèle ARMA
+7. Fitter le modèle ARMA
+8. Valider le modèle ARMA en walk-forward
+9. Si assez de données, essayer un LSTM en faisant varier son architecture et la fenêtre temporelle. Attention à bien mettre les données sous forme (X,Y) où X = les n valeurs précédentes. Penser à TimeSeriesGenerator dans Keras s'il y a bcp de données.
+10. Essayer avec XGBoost
+11. Essayer la convolution 1-D
+12. Essayer un réseau de neurones classique en lui passant l'ensemble (X,Y) de training
+13. Essayer des techniques plus avancées provenant du NLP comme le modèle à attention du style Transformers
+  
