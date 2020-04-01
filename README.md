@@ -60,6 +60,8 @@ Suite de l'introduction aux séries temporelles avec les techniques "modernes" v
 Avec le [notebook](https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/LSTM%20Time%20Series%20Power%20Consumption.ipynb)
 Tiré de [ça](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/)
 
+* Que faire si val loss décroit plus vite loss : [ici](https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/)
+
 * ARIMA vs LSTM (vs Prophet): [ici](https://medium.com/@cdabakoglu/time-series-forecasting-arima-lstm-prophet-with-python-e73a750a9887)
 
 * Time series generator dans Keras : [ici](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/) [et là](https://www.dlology.com/blog/how-to-use-keras-timeseriesgenerator-for-time-series-data/)
